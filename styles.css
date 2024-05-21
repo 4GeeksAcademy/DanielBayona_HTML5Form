@@ -1,0 +1,7 @@
+textarea{
+    resize: none;
+}
+
+.custom-radio .form-check-input {
+    transform: scale(0.6);
+  }
